@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+div{
+    height: 100vh;
+    background-color: rgb(223, 223, 223);
+}
+
+.login-box{
+    height: 350px;
+    width: 440px;
+    margin-left: 380px;
+    margin-top: 60px;
+    position: absolute;
+    background-color: white;
+    box-shadow: 1px 1px 8px 1px rgb(145, 145, 145);
+
+}
+img{
+    height: 23px;
+    margin-left: 39px;
+    margin-top: 35px;
+    position:absolute;
+}
+.login-box h1{
+    margin-left: 39px;
+    margin-top: 75px;
+    font-size: 24px;
+    font-weight: 400;
+    
+}
+input{
+    border: none;
+    margin-left: 39px;
+    margin-top: 15px;
+    width: 80%;
+    height: 30px;
+    border-bottom: 1px black solid;
+    
+}
+p{
+    margin-left: 39px;
+    margin-top: 10px;
+    font-size: 13px;
+    padding-top: 15px;
+    
+}
+p a{
+    text-decoration:none;
+    color: #0067b8;
+}
+.anchor-two{
+    text-decoration:none;
+    color: #0067b8;
+    font-size: 13px;
+    
+    
+}
+.question-mark{
+    height: 15px;
+    margin-top: -0px;
+    margin-left: 4px;
+}
+button{
+    margin-top: 40px;
+    margin-left: 285px;
+    height: 30px;
+    width: 100px;
+    background-color: #0067b8;
+    border: none;
+    color: aliceblue;
+}
+button:hover{
+    background-color:#0063ae;
+}
+.sec-btn{
+    height: 44px;
+    width: 440px;
+    margin-left: 380px;
+    margin-top: 430px;
+    background-color:white ;
+    color: black;
+    
+    
+    box-shadow: 1px 1px 8px 1px rgb(145, 145, 145);
+}
+.sec-btn img{
+    height: 30px;
+    margin-left:-150px;
+    margin-top: -8px;
+
+}
+.sec-btn:hover{
+    background-color: rgba(191, 191, 191, 0.431);
+}
+
